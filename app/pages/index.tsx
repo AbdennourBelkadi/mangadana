@@ -46,6 +46,15 @@ const products = [
   href: '',
   color: 'Black'
 },
+{
+  id: 3,
+  name : "Black Clover Asta Tee Shirt",
+  imageSrc: "https://res.cloudinary.com/teepublic/image/private/s--V3p5qLmu--/t_Resized%20Artwork/c_crop,x_10,y_10/c_fit,h_626/c_crop,g_north_west,h_626,w_470,x_-11,y_0/g_north_west,u_upload:v1462829024:production:blanks:a59x1cgomgu5lprfjlmi,x_-406,y_-325/b_rgb:eeeeee/c_limit,f_auto,h_630,q_90,w_630/v1583614463/production/designs/8423188_0.jpg",
+  price : "$15.00",
+  imageAlt: "",
+  href: '',
+  color: 'White'
+}
   // More products...
 ]
 
